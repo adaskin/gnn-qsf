@@ -1,0 +1,7 @@
+torch>=2.0
+pennylane>=0.32
+torch-geometric
+scikit-learn
+numpy
+networkx
+matplotlib
