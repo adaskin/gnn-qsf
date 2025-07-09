@@ -2,7 +2,7 @@
 # Learnable Quantum Spectral Filters for Hybrid Graph Neural Networks
 
 [![arXiv](https://img.shields.io/badge/arXiv-2507.05640-b31b1b.svg)](https://arxiv.org/abs/2507.05640)
-[![License: APACHE](https://img.shields.io/badge/License-APACHE-yellow.svg)](https://opensource.org/licenses/apache-2-0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/mit)
 
 Official implementation for the paper:  
 **"Learnable Quantum Spectral Filters for Hybrid Graph Neural Networks"**  
