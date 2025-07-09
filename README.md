@@ -1,12 +1,12 @@
 
 # Learnable Quantum Spectral Filters for Hybrid Graph Neural Networks
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.05640-b31b1b.svg)](https://arxiv.org/abs/2507.05640)
 [![License: APACHE](https://img.shields.io/badge/License-APACHE-yellow.svg)](https://opensource.org/licenses/apache-2-0)
 
 Official implementation for the paper:  
 **"Learnable Quantum Spectral Filters for Hybrid Graph Neural Networks"**  
-*Ammar Daskin (arXiv XXXX)*
+*Ammar Daskin ([arXiv 2507.05640](https://arxiv.org/abs/2507.05640)), July 2025.*
 
 ## Overview
 This repository contains PyTorch/PennyLane code for:
